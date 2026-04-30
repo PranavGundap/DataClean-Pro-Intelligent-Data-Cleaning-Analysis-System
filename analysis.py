@@ -47,7 +47,7 @@ plt.show()
 plt.figure(figsize=(6,4))
 df["Payment Method"].value_counts().plot(kind='pie', autopct='%1.1f%%')
 plt.title("Payment Method Distribution")
-plt.ylabel("")  # remove y-label
+plt.ylabel("")  #
 plt.tight_layout()
 plt.show()
 
