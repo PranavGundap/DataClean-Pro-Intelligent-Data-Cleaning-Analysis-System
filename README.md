@@ -41,10 +41,6 @@ This project demonstrates a complete data preprocessing and analysis pipeline us
 
 ### Payment Method Distribution
 ![Payment](images/payment_method.png)
-
-### Data Cleaning Impact
-![Impact](images/data_cleaning_impact.png)
-
 ---
 
 ## How to Run
